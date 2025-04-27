@@ -42,7 +42,7 @@ const HomePage = () => {
               Tampil Chic Setiap Hari
             </h1>
             <p className="text-xl md:text-2xl mb-8 font-light">
-              Koleksi Terbaru dari SALA Wear
+              Koleksi Terbaru dari SORA Wear
             </p>
             <p className="mb-8 italic text-lg">
               Diskon 20% untuk pembelian pertama
@@ -100,7 +100,7 @@ const HomePage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <img 
-                src="/src/assets/codenique.png" 
+                src="/src/assets/sorawear.png" 
                 alt="SORA Wear Collection" 
                 className="rounded-lg shadow-lg w-full h-auto"
               />
@@ -170,7 +170,7 @@ const HomePage = () => {
                 className="block group relative overflow-hidden"
               >
                 <img 
-                  src={`/api/placeholder/300/300`} 
+                  src={`src/assets/sorawear.png`} 
                   alt="Instagram post" 
                   className="w-full h-auto aspect-square object-cover"
                 />

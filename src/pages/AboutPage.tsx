@@ -20,7 +20,7 @@ const AboutPage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="/api/placeholder/600/800" 
+                src="/src/assets/sorawear.png" 
                 alt="SORA Wear Story" 
                 className="w-full h-auto rounded-lg shadow-lg"
               />
@@ -105,9 +105,9 @@ const AboutPage = () => {
           </div>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-            <img src="/api/placeholder/400/400" alt="Behind the scenes" className="w-full h-auto rounded-lg" />
-            <img src="/api/placeholder/400/400" alt="Behind the scenes" className="w-full h-auto rounded-lg" />
-            <img src="/api/placeholder/400/400" alt="Behind the scenes" className="w-full h-auto rounded-lg" />
+            <img src="/src/assets/sorawear.png" alt="Behind the scenes" className="w-full h-auto rounded-lg" />
+            <img src="/src/assets/sorawear.png" alt="Behind the scenes" className="w-full h-auto rounded-lg" />
+            <img src="/src/assets/sorawear.png" alt="Behind the scenes" className="w-full h-auto rounded-lg" />
           </div>
         </div>
       </section>
@@ -120,7 +120,7 @@ const AboutPage = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="mb-4 overflow-hidden rounded-full">
-                <img src="/api/placeholder/300/300" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
+                <img src="/src/assets/sorawear.png" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
               </div>
               <h3 className="text-xl font-medium mb-1">Sari Wijaya</h3>
               <p className="text-gray-600 mb-2">Founder & Creative Director</p>
@@ -131,7 +131,7 @@ const AboutPage = () => {
             
             <div className="text-center">
               <div className="mb-4 overflow-hidden rounded-full">
-                <img src="/api/placeholder/300/300" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
+                <img src="/src/assets/sorawear.png" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
               </div>
               <h3 className="text-xl font-medium mb-1">Ratih Dewi</h3>
               <p className="text-gray-600 mb-2">Co-Founder & Business Development</p>
@@ -142,7 +142,7 @@ const AboutPage = () => {
             
             <div className="text-center">
               <div className="mb-4 overflow-hidden rounded-full">
-                <img src="/api/placeholder/300/300" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
+                <img src="/src/assets/sorawear.png" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
               </div>
               <h3 className="text-xl font-medium mb-1">Adi Permana</h3>
               <p className="text-gray-600 mb-2">Production Manager</p>
@@ -153,7 +153,7 @@ const AboutPage = () => {
             
             <div className="text-center">
               <div className="mb-4 overflow-hidden rounded-full">
-                <img src="/api/placeholder/300/300" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
+                <img src="/src/assets/sorawear.png" alt="Team Member" className="w-48 h-48 object-cover mx-auto" />
               </div>
               <h3 className="text-xl font-medium mb-1">Dina Maulida</h3>
               <p className="text-gray-600 mb-2">Fashion Designer</p>

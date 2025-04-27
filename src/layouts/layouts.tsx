@@ -47,7 +47,7 @@ const Layout = () => {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <Link to="/" className="z-50">
-              <h1 className="text-2xl md:text-3xl font-playfair font-bold">SALA<span className="font-light">Wear</span></h1>
+              <h1 className="text-2xl md:text-3xl font-playfair font-bold">SORA<span className="font-light">Wear</span></h1>
             </Link>
             
             {/* Desktop Navigation */}
@@ -147,7 +147,7 @@ const Layout = () => {
           </div>
           
           <div className="border-t border-gray-300 mt-8 pt-6 text-center">
-            <p>&copy; {new Date().getFullYear()} Sala Wear. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Sora Wear. All rights reserved.</p>
           </div>
         </div>
       </footer>
