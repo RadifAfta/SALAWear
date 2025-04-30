@@ -100,7 +100,7 @@ const HomePage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <img 
-                src="/src/assets/sorawear.png" 
+                src="/assets/sorawear.png" 
                 alt="SORA Wear Collection" 
                 className="rounded-lg shadow-lg w-full h-auto"
               />
