@@ -170,7 +170,7 @@ const HomePage = () => {
                 className="block group relative overflow-hidden"
               >
                 <img 
-                  src={`src/assets/sorawear.png`} 
+                  src={`/assets/sorawear.png`} 
                   alt="Instagram post" 
                   className="w-full h-auto aspect-square object-cover"
                 />
