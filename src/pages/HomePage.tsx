@@ -30,13 +30,13 @@ const HomePage = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{ 
-            backgroundImage: `url('/api/placeholder/1600/900')`,
+            backgroundImage: `url('/assets/bg-hero.jpg')`,
             opacity: 0.7
           }}
         ></div>
         
         {/* Hero Content */}
-        <div className="absolute inset-0 flex items-center justify-center">
+        <div className="absolute inset-0 flex items-center justify-center backdrop-blur-sm">
           <div className="container-custom text-center max-w-3xl">
             <h1 className="text-4xl md:text-6xl font-playfair mb-6">
               Tampil Chic Setiap Hari

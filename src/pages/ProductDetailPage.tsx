@@ -33,7 +33,7 @@ const ProductDetailPage = () => {
     
     const message = `Halo SORA Wear, saya mau pesan ${product.name} dengan detail:\n- Warna: ${selectedColor || 'belum dipilih'}\n- Ukuran: ${selectedSize || 'belum dipilih'}\nMohon informasi ketersediaan dan proses pembelian. Terima kasih.`;
     
-    return `https://wa.me/6282231682308?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/6281232455793?text=${encodeURIComponent(message)}`;
   };
   
   useEffect(() => {
